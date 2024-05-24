@@ -1,0 +1,81 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/mononeuropathy-type-2-diabetes---primary.py
+inputModule3:
+  class: File
+  path: python/angiopathy-type-2-diabetes---primary.py
+inputModule4:
+  class: File
+  path: python/type-2-diabetes-insulin---primary.py
+inputModule5:
+  class: File
+  path: python/arthropathy-type-2-diabetes---primary.py
+inputModule6:
+  class: File
+  path: python/renal-type-2-diabetes---primary.py
+inputModule7:
+  class: File
+  path: python/multiple-type-2-diabetes---primary.py
+inputModule8:
+  class: File
+  path: python/neurological-type-2-diabetes---primary.py
+inputModule9:
+  class: File
+  path: python/type-2-diabetes-ulcer---primary.py
+inputModule10:
+  class: File
+  path: python/type-2-diabetes-treated---primary.py
+inputModule11:
+  class: File
+  path: python/polyneuropathy-type-2-diabetes---primary.py
+inputModule12:
+  class: File
+  path: python/type-2-diabetes-state---primary.py
+inputModule13:
+  class: File
+  path: python/type-2-diabetes-complication---primary.py
+inputModule14:
+  class: File
+  path: python/type-2-diabetes-cataract---primary.py
+inputModule15:
+  class: File
+  path: python/retinopathy-type-2-diabetes---primary.py
+inputModule16:
+  class: File
+  path: python/nephropathy-type-2-diabetes---primary.py
+inputModule17:
+  class: File
+  path: python/type-2-diabetes-microalbuminuria---primary.py
+inputModule18:
+  class: File
+  path: python/ophthalmic-type-2-diabetes---primary.py
+inputModule19:
+  class: File
+  path: python/hypoglycaemic-type-2-diabetes---primary.py
+inputModule20:
+  class: File
+  path: python/type-2-diabetes-control---primary.py
+inputModule21:
+  class: File
+  path: python/type-2-diabetes-review---primary.py
+inputModule22:
+  class: File
+  path: python/neuropathic-type-2-diabetes---primary.py
+inputModule23:
+  class: File
+  path: python/type-2-diabetes-mellitus---primary.py
+inputModule24:
+  class: File
+  path: python/dietary-type-2-diabetes---primary.py
+inputModule25:
+  class: File
+  path: python/type-2-diabetes-gangrene---primary.py
+inputModule26:
+  class: File
+  path: python/type-2-diabetes-proteinuria---primary.py
+inputModule27:
+  class: File
+  path: python/output-cases.py
